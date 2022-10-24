@@ -34,6 +34,9 @@
 }
 
 .post-list-by-taxonomy {
+  
+  text-transform: capitalize;
+  
   time {
     font-family: var(--code-font);
   }
